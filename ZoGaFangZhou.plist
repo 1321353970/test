@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/1321353970/test/master/ZoGaFinance.ipa</string>
+					<string>http://172.16.14.182:80/ZoGaFinance.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
