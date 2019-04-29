@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://fangzhou.zogainfo.com/app/download/img/iossmall.png</string>
+					<string>http://172.16.14.182:80/icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://fangzhou.zogainfo.com/app/download/img/iosbig.png</string>
+					<string>http://172.16.14.182:80/icon_1024.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>方舟-业务系统</string>
+				<string>方舟-内部测试</string>
 			</dict>
 		</dict>
 	</array>
